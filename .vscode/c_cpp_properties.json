@@ -1,0 +1,65 @@
+{
+    "configurations": [
+        {
+            "name": "!!! WARNING !!! AUTO-GENERATED FILE, PLEASE DO NOT MODIFY IT AND USE https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags"
+        },
+        {
+            "name": "Win32",
+            "includePath": [
+                "c:/Users/BAS/Dropbox/00. Programming/08. Arduino/Skoolie/include",
+                "c:/Users/BAS/Dropbox/00. Programming/08. Arduino/Skoolie/src",
+                "C:/Users/BAS/.platformio/lib/Adafruit SSD1306_ID135",
+                "C:/Users/BAS/.platformio/lib/Adafruit GFX Library_ID13",
+                "C:/Users/BAS/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
+                "C:/Users/BAS/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
+                "c:/Users/BAS/Dropbox/00. Programming/08. Arduino/Skoolie/.pio/libdeps/itsybitsy32u4_5V/Adafruit NeoPixel_ID28",
+                "C:/Users/BAS/.platformio/packages/framework-arduino-avr/cores/arduino",
+                "C:/Users/BAS/.platformio/packages/framework-arduino-avr/variants/itsybitsy32u4",
+                "C:/Users/BAS/.platformio/lib/Adafruit MAX31855 library_ID84",
+                "C:/Users/BAS/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
+                "C:/Users/BAS/.platformio/packages/framework-arduino-avr/libraries/HID/src",
+                "C:/Users/BAS/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
+                "C:/Users/BAS/.platformio/packages/tool-unity",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "c:/Users/BAS/Dropbox/00. Programming/08. Arduino/Skoolie/include",
+                    "c:/Users/BAS/Dropbox/00. Programming/08. Arduino/Skoolie/src",
+                    "C:/Users/BAS/.platformio/lib/Adafruit SSD1306_ID135",
+                    "C:/Users/BAS/.platformio/lib/Adafruit GFX Library_ID13",
+                    "C:/Users/BAS/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
+                    "C:/Users/BAS/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
+                    "c:/Users/BAS/Dropbox/00. Programming/08. Arduino/Skoolie/.pio/libdeps/itsybitsy32u4_5V/Adafruit NeoPixel_ID28",
+                    "C:/Users/BAS/.platformio/packages/framework-arduino-avr/cores/arduino",
+                    "C:/Users/BAS/.platformio/packages/framework-arduino-avr/variants/itsybitsy32u4",
+                    "C:/Users/BAS/.platformio/lib/Adafruit MAX31855 library_ID84",
+                    "C:/Users/BAS/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
+                    "C:/Users/BAS/.platformio/packages/framework-arduino-avr/libraries/HID/src",
+                    "C:/Users/BAS/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
+                    "C:/Users/BAS/.platformio/packages/tool-unity",
+                    ""
+                ]
+            },
+            "defines": [
+                "PLATFORMIO=40100",
+                "ARDUINO_AVR_ITSYBITSY32U4_5V",
+                "F_CPU=16000000L",
+                "ARDUINO_ARCH_AVR",
+                "ARDUINO=10808",
+                "USB_VID=0x239A",
+                "USB_PID=0x000E",
+                "USB_PRODUCT=\"ItsyBitsy 32u4 5V 16MHz\"",
+                "USB_MANUFACTURER=\"Adafruit\"",
+                "__AVR_ATmega32U4__",
+                ""
+            ],
+            "intelliSenseMode": "clang-x64",
+            "cStandard": "c11",
+            "cppStandard": "c++11",
+            "compilerPath": "\"C:/Users/BAS/.platformio/packages/toolchain-atmelavr/bin/avr-gcc.exe\" -mmcu=atmega32u4"
+        }
+    ],
+    "version": 4
+}
